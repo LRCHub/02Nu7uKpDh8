@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【だてぃが】「ぶっ殺したい過去の記憶」",
+  "base_artist": "だてぃが",
+  "createdAt": "2026-01-08T19:53:33.882991Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぶっ殺したい過去の記憶",
+      "artist": "だてぃが",
+      "has_synced": false,
+      "path": "select/pl_01_ぶっ殺したい過去の記憶_だてぃが.txt"
+    }
+  ]
+}
